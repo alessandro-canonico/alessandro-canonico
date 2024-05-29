@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alessandrocanonico96@gmail.com**
 
-
+- 🤝 Open to work and collaborate, feel free to send me an email!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
