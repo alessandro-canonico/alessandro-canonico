@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A full-stack developer from Naples, Italy</h3>
 
-- 🔭 I’m currently a student at [Develhope Academy](https://www.develhope.co/)
+- 🔭 I’m officially graduated as **Full Stack Developer** at <a href="https://www.develhope.co/" target="blank">**Develhope Academy**</a>
+  <br>
+        <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/108078064" target="blank">**see the certification here!**</a>
 
 - 📫 How to reach me **alessandrocanonico96@gmail.com**
 
