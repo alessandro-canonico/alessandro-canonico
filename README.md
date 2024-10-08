@@ -5,9 +5,15 @@
   <br>
         <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/108078064" target="blank">**see the certification here!**</a>
 
-- 📫 How to reach me **alessandrocanonico96@gmail.com**
+- 📫 How to reach me: **alessandrocanonico96@gmail.com**
 
-- 🤝 Open to work and collaborate, feel free to send me an email!
+- 🤝 Open to work and collaborate, feel free to contact me! (email or Linkedin)
+
+- 📂 Want to see my projects? click on the links below to see the demos
+
+<h3>Projects</h3>
+ - <a href="https://www.canva.com/design/DAGJyrZjNWQ/vFwxwRfwo6UY3EkpXvlmsA/edit?utm_content=DAGJyrZjNWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Recipe Roulette</a>
+     <p>RecipeRoulette is a mobile application designed to simplify and make interactive the process of choosing the meal. It was implemented using mainly React (front-end), Node.js and PostgreSQL (back-end). We also implemented ChatGPT for recipe suggestions. Enjoy!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
