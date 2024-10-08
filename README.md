@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A full-stack developer from Naples, Italy</h3>
+<h3 align="center">Web developer from Naples, Italy</h3>
 
 - 🔭 I’m officially graduated as **Full Stack Developer** at <a href="https://www.develhope.co/" target="blank">**Develhope Academy**</a>
   <br>
