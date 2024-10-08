@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">Web developer from Naples, Italy</h3>
 
-- 🔭 I’m officially graduated as **Full Stack Developer** at <a href="https://www.develhope.co/" target="blank">**Develhope Academy**</a>
-  <br>
-        <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/108078064" target="blank">**see the certification here!**</a>
+- 🔭 I’m officially graduated as **Full Stack Developer** at <a href="https://www.develhope.co/" target="blank">**Develhope Academy**</a><br><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/108078064" target="blank">**see the certification here!**</a>
 
 - 📫 How to reach me: **alessandrocanonico96@gmail.com**
 
@@ -11,9 +9,13 @@
 
 - 📂 Want to see my projects? click on the links below to see the demos
 
-<h3>Projects</h3>
- - <a href="https://www.canva.com/design/DAGJyrZjNWQ/vFwxwRfwo6UY3EkpXvlmsA/edit?utm_content=DAGJyrZjNWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Recipe Roulette</a>
-     <p>RecipeRoulette is a mobile application designed to simplify and make interactive the process of choosing the meal. It was implemented using mainly React (front-end), Node.js and PostgreSQL (back-end). We also implemented ChatGPT for recipe suggestions. Enjoy!</p>
+<h2>List of personal projects</h2>
+<br>
+
+  - <a href="https://www.canva.com/design/DAGJyrZjNWQ/vFwxwRfwo6UY3EkpXvlmsA/edit?utm_content=DAGJyrZjNWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><b>Recipe Roulette</b> - mobile app about food</a><br><p>RecipeRoulette is a mobile application designed to simplify and make interactive the process of choosing the meal. It was implemented using mainly **React**, **Sass** and **CSS** (front-end), **Node.js** and **PostgreSQL** (back-end). We also implemented **ChatGPT** for recipe suggestions. Enjoy!</p>
+
+ - <a href=""><b>Ride the Rhythm</b> - vinyl e-commerce</a><br><p>Ride the rhythm is my personal project. I'm passionate about vinyl records so I decided to create an **e-commerce** using my own collection as database. I'm developing this project using **React** for building components, **Sass** and **CSS** for the overall styling, and the **Framer Motion library** for fantastic animations! Additionally, I'm following the **SPA** (Single-page Application) trend for the creation of the homepage. I'm implementing all the server-side logic with **Node.js** and **MySQL**. The project is still under construction, but you can already take a look by clicking the link. Enjoy!</p>
+ 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
